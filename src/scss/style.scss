@@ -1,0 +1,19 @@
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif ;
+}
+
+.all_screen {
+    background: url(../../src/img/background.jpg) center (center/cover) no-repeat;
+}
+
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    &__display {
+        background-color: #fff;
+    }
+}
+
+@import 'blocks/header';
+@import 'blocks/menu';
