@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","mappings":"mBACAA,QAAQC,IAAI,I","sources":["webpack://46/./src/js/script.js"],"sourcesContent":["\"use strict\"\r\nconsole.log('1');"],"names":["console","log"],"sourceRoot":""}
+{"version":3,"file":"bundle.js","mappings":"mBAKAA,OAAOC,iBAAiB,oBAAoB,Q","sources":["webpack://46/./src/js/script.js"],"sourcesContent":["\"use strict\"\r\n\r\n\r\n\r\n\r\nwindow.addEventListener('DOMContentLoaded', () => {\r\n\r\n\r\n\r\n\r\n});"],"names":["window","addEventListener"],"sourceRoot":""}

@@ -1,5 +1,6 @@
 * {
     font-family: 'Museo Sans Cyrl', sans-serif ;
+    block-size: border-box;
 }
 
 .all_screen {
@@ -17,3 +18,4 @@
 
 @import 'blocks/header';
 @import 'blocks/menu';
+@import 'blocks/main';

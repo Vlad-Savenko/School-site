@@ -1,6 +1,7 @@
 .header {
+    background: url(../img/header.jpg) center (center/cover) no-repeat;
     min-height: 150px;
-    background: url(../../img/header.jpg) center (center/cover) no-repeat;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +13,6 @@
         text-shadow: -1px 0 #fff;
         color: rgba(0,0,0,0.6);
         text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
-
     }
 }
     

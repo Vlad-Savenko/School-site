@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("1")})();
+(()=>{"use strict";window.addEventListener("DOMContentLoaded",(()=>{}))})();
 //# sourceMappingURL=bundle.js.map
